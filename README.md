@@ -20,8 +20,9 @@ Design specifications:
 
 
 
-https://d33wubrfki0l68.cloudfront.net/b440f84f87b8a62fd29741e90a45e60db74b52e9/6e44e/resources/spaceinvaders/mainscreen.png
-https://d33wubrfki0l68.cloudfront.net/cd490d3e472e94900422eeeb17971ac39ff3d943/4b867/resources/spaceinvaders/explode.png
-https://d33wubrfki0l68.cloudfront.net/35cd21cb4894a63f4cc77c761953744c4fd13ee0/521e0/resources/spaceinvaders/lategame.png
-https://d33wubrfki0l68.cloudfront.net/397e65b2b369391600a4012436b2f1d0989144e4/ca219/resources/spaceinvaders/lose.png
-https://github.com/jackburkhardt/ge211-spaceinvaders/blob/main/ge211.gif
+![mainscreen](https://user-images.githubusercontent.com/69056215/130668430-67dd83a2-a8f1-4007-907f-bac10d7e8da8.png)
+![explode](https://user-images.githubusercontent.com/69056215/130668438-1cd28a46-3770-41d3-92e9-057945078533.png)
+![lategame](https://user-images.githubusercontent.com/69056215/130668447-99e5dcdb-7ddd-4456-86e0-517c83cc2275.png)
+![lose](https://user-images.githubusercontent.com/69056215/130668460-7c3c9484-37d8-46c0-af97-0127e4d8225a.png)
+![ezgif com-optimize](https://user-images.githubusercontent.com/69056215/130670925-772ba2bd-1eeb-4e08-8e64-8c3c0ee1290c.gif)
+
