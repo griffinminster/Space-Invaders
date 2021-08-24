@@ -20,9 +20,10 @@ Programmed in C++ and rendered using ge211, an engine made by Professor Jesse To
 
 
 
+![Space Invaders Gameplay](https://github.com/griffinminster/Space-Invaders/blob/b31135284406f26054744ba7c758b45d896bbe89/Space%20Invaders%20Gameplay.gif)
 ![mainscreen](https://user-images.githubusercontent.com/69056215/130668430-67dd83a2-a8f1-4007-907f-bac10d7e8da8.png)
 ![explode](https://user-images.githubusercontent.com/69056215/130668438-1cd28a46-3770-41d3-92e9-057945078533.png)
 ![lategame](https://user-images.githubusercontent.com/69056215/130668447-99e5dcdb-7ddd-4456-86e0-517c83cc2275.png)
 ![lose](https://user-images.githubusercontent.com/69056215/130668460-7c3c9484-37d8-46c0-af97-0127e4d8225a.png)
-https://github.com/griffinminster/Space-Invaders/blob/b31135284406f26054744ba7c758b45d896bbe89/Space%20Invaders%20Gameplay.gif
+
 
