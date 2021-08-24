@@ -1,11 +1,11 @@
-# Space-Invaders
+# Space Invaders
 
 A basic version of Space Invaders created for Northwestern University CS211. Designed and executed with Jack Burkhardt.
 
 Programmed in C++ and rendered using ge211, an engine made by Professor Jesse Tov using the SDL2 libraries.
 
 
-## Design specifications:
+### Design specifications:
 - The aliens are initially placed in a large grid near the top of the screen
 - The aliens, as a whole block, move slowly to one side of the screen, move down, and then continue to the other side of the screen.
 - The player’s ship is y-locked near the bottom of the screen, but can move back and forth using the left and right arrow keys. There will be continuous control — - If the user holds down either of the arrow keys, the ship should continue to move in that direction.
