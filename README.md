@@ -2,7 +2,7 @@
 
 A basic version of Space Invaders created for Northwestern University CS211. Designed and executed with Jack Burkhardt.
 
-Programmed in C++ and rendered using ge211, an engine made by Professor Jesse Tov using the SDL2 libraries.
+Programmed in C++ in CLion and rendered using ge211, an engine made by Professor Jesse Tov using the SDL2 libraries.
 
 
 ### Design specifications:
